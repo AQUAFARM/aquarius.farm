@@ -1,3 +1,6 @@
+
+[fontello/brandico.font](https://github.com/fontello/brandico.font) repository.
+
 Brandico font
 =============
 
@@ -8,8 +11,6 @@ We have no goal to collect all possible logos here. Only popular ones, used at
 websites, and missed in other collections:
 
 - icons for links to pages in social networks
-[fontello/brandico.font](https://github.com/fontello/brandico.font) repository.
-
 - messengers icons
 - "login via..." icons
 
