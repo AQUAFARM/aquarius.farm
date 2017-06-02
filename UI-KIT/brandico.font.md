@@ -1,5 +1,5 @@
 
-[fontello/brandico.font](https://github.com/fontello/brandico.font) repository.
+UI/UX [fontello/brandico.font](https://github.com/fontello/brandico.font) repository.
 
 Brandico font
 =============
